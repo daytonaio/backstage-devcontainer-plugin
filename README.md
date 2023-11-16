@@ -2,10 +2,6 @@
 
 ## Development Bounty: Backstage Dev Container Automation Plugin
 
-**Bounty Title:** Create a Backstage Dev Container Setup Automation Plugin with GPT-4 Turbo and 'Open in Daytona' Integration
-
-**Reward:** $500 USD
-
 **Description:**
 We are seeking a talented developer to create a [plugin](https://backstage.io/plugins) for the [Backstage](https://backstage.io/) developer platform. This plugin should utilize Bring Your Own Key (BYOK) principle and offer a single-interface solution that leverages OpenAI's GPT-4 Turbo (or BYOLLM) for extensive context understanding. The core functionality is to analyze users git repositories and automatically propose an optimized `.devcontainer` configuration to the user. It should also feature an 'Open in Daytona' button to enhance user experience with starting development environments.
 
@@ -31,6 +27,8 @@ We are seeking a talented developer to create a [plugin](https://backstage.io/pl
 - Documentation clarity and comprehensiveness.
 - Ease of use and user interface design.
 - The overall quality of the user experience.
+
+**Reward:** $500 USD
 
 **Deadline for Submissions:** 20.12.2023.
 
