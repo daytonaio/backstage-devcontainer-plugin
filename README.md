@@ -7,21 +7,21 @@
 **Reward:** $500 USD
 
 **Description:**
-We are seeking a talented developer or team to create a plugin for the [Backstage](https://backstage.spotify.com/) developer platform. This plugin should utilize Bring Your Own Key (BYOK) capabilities and offer a single-interface solution that leverages OpenAI's GPT-4 Turbo (or BYOLLM) for extensive context understanding. The core functionality is to analyze git repositories and automatically propose an optimized `.devcontainer` configuration to the user. It should also feature an 'Open in Daytona' button to enhance user experience with starting development environments.
+We are seeking a talented developer to create a [plugin](https://backstage.io/plugins) for the [Backstage](https://backstage.io/) developer platform. This plugin should utilize Bring Your Own Key (BYOK) principle and offer a single-interface solution that leverages OpenAI's GPT-4 Turbo (or BYOLLM) for extensive context understanding. The core functionality is to analyze users git repositories and automatically propose an optimized `.devcontainer` configuration to the user. It should also feature an 'Open in Daytona' button to enhance user experience with starting development environments.
 
 **Objectives:**
 
-- Develop a plugin compatible with the Backstage ecosystem.
+- Develop a plugin compatible with the [Backstage ecosystem](https://backstage.io/docs/plugins/create-a-plugin).
 - Integrate GPT-4 Turbo for intelligent analysis and configuration suggestions based on the repository contents.
-- Implement BYOK including enhanced security and privacy.
+- Implement BYOK, including enhanced security and privacy.
 - Provide a single interface for all operations, including AI prompt interactions.
 - Include an 'Open in Daytona' feature for easy access and contributions. Admin can set the URL of their Daytona instance on which this button will append “/#git-repo-url” (e.g. https://daytona.io/#https://github.com/ggerganov/whisper.cpp)
 
 **Submission Details:**
 
-- Fork the designated GitHub repository and submit your plugin as a pull request.
-- Provide detailed documentation on setup, usage, and any configuration options.
-- Include a video demo of the plugin in action.
+- Fork the [this](https://github.com/daytonaio/backstage-devcontainer-plugin/) GitHub repository and submit your plugin as a pull request.
+- Provide detailed README on setup, usage, and any configuration options.
+- Include a link to a video demo of the plugin in action.
 - Ensure the code is well-commented and adheres to clean code practices.
 
 **Selection Criteria:**
